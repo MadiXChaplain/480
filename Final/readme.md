@@ -28,7 +28,7 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 
 <h2> Step 2: Convert Tweet Data to Text Data </h2>
 
-[Tweet to Text Conversion Process] (https://github.com/MadiXChaplain/480/blob/master/Final/Naive_Bayes_Collection_1.xml)
+[Tweet to Text Conversion Process](https://github.com/MadiXChaplain/480/blob/master/Final/Naive_Bayes_Collection_1.xml)
 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/bargraphcollection1.png">
 
