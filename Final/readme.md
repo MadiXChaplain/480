@@ -57,5 +57,6 @@ We chose the Naive Bayes Classification Model because we were able to take the c
 
 <h2> Conclusions and Limitations </h2>
 
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/negativetweet.PNG">
 
 
