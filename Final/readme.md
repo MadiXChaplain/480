@@ -42,9 +42,9 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 
 <H2> Trained Naive Bayes Model Visualizations: Collection 1 </H2>
 
-<img src="https://github.com/MadiXChaplain/480/blob/master/Final/bargraphcollection1.png">
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/PIECHART.PNG">
 
-<img src="https://github.com/MadiXChaplain/480/blob/master/Final/piechartcollection1.png">
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/BARGRAPHFINAL.PNG">
 
 <H2> Trained Naive Bayes Model Visualizations: Collection 2 </H2>
 
