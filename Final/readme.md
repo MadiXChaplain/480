@@ -1,9 +1,15 @@
 <h1>Sentiment Analysis Using Naive Bayes Classification Model</h1>
-<H2>Introduction</H2>
+<H2>Introduction and Background Information</H2>
 <H3>Research Question:</H3>
 By collecting Twitter Data regarding the Honduran migrant caravan, we can determine the sentiment of affected citizens as positive, negative, or neutral through the Naive Bayes Classification Model.
-<H3> Background Information </h3>
+
 By utilizing supervised machine learning, we will be able to classify a massive volume of collected Tweets at a proficiency that would be impossible to decipher manually. By sorting the Tweets based on sentiment, as positive, negative, or neutral,  we can better understand the scope of the problem and the opinions and voices of those affected by this migration. Instead of one mass collection we will be collecting Twitter data throughout the week as the situation progresses to see if public sentiment has shifted. There is national conflicting sentiment not only within the United States but Mexico as well in how to solve this issue. By creating a cohesive picture through the collection and classification of Twitter data we can better understand the range of arguments and sentiments, comprehend the severity of this issue as it evolves over time, and provide our insights to decision makers able to institute change derived directly from the public. 
+
+<H3>Research Question:</H3>
+<H3>Data Description and Visualizations</H3>
+<H3>Trained Model and Visualization</H3>
+<H3>Model Justification and Parameters</H3>
+<H3>Conclusion and Limitations of Rsearch</H3>
 
 # Machine Learning in Python  
 [![Build Status](https://travis-ci.org/xbwei/machine_learning_in_python.svg?branch=master)](https://travis-ci.org/xbwei/machine_learning_in_python)
