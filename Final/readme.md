@@ -19,6 +19,10 @@ Some popular hashtags reflecting Negative sentiment towards the migrant caravan 
 Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #Refugeeswelcome #HelptheHondurans
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/worldcloud2.png"> 
 
+<H2> Trained Naive Bayes Model and Visualizations </H2>
+<h1> Step 1: Collecting the Twitter Data </h2>
+[#migrantcaravan] (https://github.com/MadiXChaplain/480/blob/master/Final/search_twitter.xml)
+
 
 [process](https://github.com/MadiXChaplain/480/blob/master/Final/Apply%20Model%20Process.xml)
 
