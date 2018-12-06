@@ -56,7 +56,7 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 We chose the Naive Bayes Classification Model because we were able to take the collected tweets and format examples of inputs and desired outputs. We plan to train our model through non-numeric labels to appropriately identify sentiment. If the model performs correctly, it will produce the desired output (determination of sentiment) when given new sets of collected Twitter data. Through supervised machine learning we can label a portion of the initial tweets and manually assign them as negative, positive, or neutral sentiment. After processing this data through RapidMiner it can be optimized through multiple classification iteration cycles. We may  also use K-Means clustering to classify tweets in RapidMiner to see which keywords are most popular in each cluster. This will be a useful supplement to the Naive Bayes Classification Model because it can organize our returned tweets, and aid in visualizing the sentiment of tweets by their assigned position in different clusters.   
 
 <h2> Conclusions and Limitations </h2>
-
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/Python%20Analysis%20Negative.PNG">
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/negativetweet.PNG">
 
 
