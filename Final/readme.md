@@ -12,6 +12,7 @@ Our first collection returned 900 records utilizing the key word #migrantcaravan
 Some popular hashtags reflecting Negative sentiment towards the migrant caravan were nationalistic in nature and hostile to the Hondurans occupying the US/Mexico border: # #migrantinvasion # #buildthewallnow # #caravaninvasion
 Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #children
 
+[process](https://github.com/MadiXChaplain/480/blob/master/Final/Apply%20Model%20Process.xml)
 
 # Machine Learning in Python  
 [![Build Status](https://travis-ci.org/xbwei/machine_learning_in_python.svg?branch=master)](https://travis-ci.org/xbwei/machine_learning_in_python)
