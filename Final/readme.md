@@ -14,6 +14,8 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 
 [process](https://github.com/MadiXChaplain/480/blob/master/Final/Apply%20Model%20Process.xml)
 
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/bargraphcollection1.png">
+
 # Machine Learning in Python  
 [![Build Status](https://travis-ci.org/xbwei/machine_learning_in_python.svg?branch=master)](https://travis-ci.org/xbwei/machine_learning_in_python)
 
