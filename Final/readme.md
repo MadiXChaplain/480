@@ -44,6 +44,8 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/bargraphcollection1.png">
 
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/piechartcollection1.png">
+
 
 
 
