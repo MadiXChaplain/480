@@ -9,7 +9,7 @@ By utilizing supervised machine learning, we will be able to classify a massive 
 <H3>Data Description and Visualizations</H3>
 <H3>Trained Model and Visualization</H3>
 <H3>Model Justification and Parameters</H3>
-<H3>Conclusion and Limitations of Rsearch</H3>
+<H3>Conclusion and Limitations of Research</H3>
 
 # Machine Learning in Python  
 [![Build Status](https://travis-ci.org/xbwei/machine_learning_in_python.svg?branch=master)](https://travis-ci.org/xbwei/machine_learning_in_python)
