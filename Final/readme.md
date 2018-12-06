@@ -30,7 +30,20 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 
 [Tweet to Text Conversion Process](https://github.com/MadiXChaplain/480/blob/master/Final/Naive_Bayes_Collection_1.xml)
 
-<img src="https://github.com/MadiXChaplain/480/blob/master/Final/bargraphcollection1.png">
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/step2.PNG">
+
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/step3.PNG">
+
+
+
+
+
+
+
+
+
+
+
 
 # Machine Learning in Python  
 [![Build Status](https://travis-ci.org/xbwei/machine_learning_in_python.svg?branch=master)](https://travis-ci.org/xbwei/machine_learning_in_python)
