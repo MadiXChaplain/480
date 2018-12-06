@@ -1,5 +1,5 @@
 <h1>Sentiment Analysis Using Naive Bayes Classification Model</h1>
-<H2>Second level heading</H2>
+<H2>Introduction and Background Inforamtion</H2>
 # Machine Learning in Python  
 [![Build Status](https://travis-ci.org/xbwei/machine_learning_in_python.svg?branch=master)](https://travis-ci.org/xbwei/machine_learning_in_python)
 
