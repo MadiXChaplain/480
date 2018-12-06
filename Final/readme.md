@@ -34,6 +34,12 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/step3.PNG">
 
+<H2> Step 3: Apply Naive Bayes Model </h2>
+
+[Apply Naive Bayes Process](https://github.com/MadiXChaplain/480/blob/master/Final/Apply%20Model%20Process.xml)
+
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/step4.PNG">
+
 
 
 
