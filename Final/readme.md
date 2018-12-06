@@ -59,4 +59,5 @@ We chose the Naive Bayes Classification Model because we were able to take the c
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/Python%20Analysis%20Negative.PNG">
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/negativetweet.PNG">
 
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/Python%20Analysis%20Positive.PNG">
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/positive%20tweet.PNG">
