@@ -9,8 +9,13 @@ By working with a high volume of data we expected inherent data quality issues c
 
 <H2> Collection 1: #migrant caravan </H2>
 Our first collection returned 900 records utilizing the key word #migrantcaravan.
-Some popular hashtags reflecting Negative sentiment towards the migrant caravan were nationalistic in nature and hostile to the Hondurans occupying the US/Mexico border: # #migrantinvasion # #buildthewallnow # #caravaninvasion
-Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #children
+Some popular hashtags reflecting Negative sentiment towards the migrant caravan were nationalistic in nature and hostile to the Hondurans occupying the US/Mexico border: #migrantinvasion #buildthewallnow #caravaninvasion
+Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #childrenuprooted #asylum
+
+<H2> Collection 2: #Hondurancaravan </H2>
+Our second collection returned 629 records utilizing the key word #Hondurancaravan.
+Some popular hashtags reflecting Negative sentiment towards the migrant caravan were nationalistic in nature and hostile to the Hondurans occupying the US/Mexico border: #taxpayers #buildthewall #illegalimmigration 
+Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #Refugeeswelcome #HelptheHondurans
 
 [process](https://github.com/MadiXChaplain/480/blob/master/Final/Apply%20Model%20Process.xml)
 
