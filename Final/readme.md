@@ -21,10 +21,9 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 
 <H2> Trained Naive Bayes Model and Visualizations </H2>
 <h1> Step 1: Collecting the Twitter Data </h2>
-[Query word: migrantcaravan](https://github.com/MadiXChaplain/480/blob/master/Final/search_twitter.xml)
 
 
-[process](https://github.com/MadiXChaplain/480/blob/master/Final/Apply%20Model%20Process.xml)
+[process](https://github.com/MadiXChaplain/480/blob/master/Final/search_twitter.xml)
 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/bargraphcollection1.png">
 
