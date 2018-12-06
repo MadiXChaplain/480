@@ -52,6 +52,8 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/total_count_collection_2_pie.png">
 
+<h2> Justification of Naive Bayes Classification Model and Parameters </h2>
+
 
 
 
