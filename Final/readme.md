@@ -7,10 +7,11 @@ By utilizing supervised machine learning, we will be able to classify a massive 
 <H3>Analysis of Twitter Data</H3>
 By working with a high volume of data we expected inherent data quality issues characteristically found in a large dataset. Our initial collection of 1,529 records revealed duplicate records from tweets that had been favorited,liked, and retweeted. Each of these interaction were treated as seperate records and collected as separate entities despite being identical content. While cleaning our data we had to manually delete repeats in order to maintain credibility in regards to sentiment. We also tried to pick query words that would encapsualte the magnitude of the issue. While our colelctions returned a wide variety of tweets there is still the possibility of missing values.
 
-<H2> Collection 1: #migrant caravan </H2>
+<H2> Collection 1: #migrantcaravan </H2>
 Our first collection returned 900 records utilizing the key word #migrantcaravan.
 Some popular hashtags reflecting Negative sentiment towards the migrant caravan were nationalistic in nature and hostile to the Hondurans occupying the US/Mexico border: #migrantinvasion #buildthewallnow #caravaninvasion
 Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #childrenuprooted #asylum
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/bargraphcollection1.png">
 
 <H2> Collection 2: #Hondurancaravan </H2>
 Our second collection returned 629 records utilizing the key word #Hondurancaravan.
