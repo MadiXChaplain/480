@@ -23,7 +23,7 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 <h1> Step 1: Collecting the Twitter Data </h2>
 
 
-[process](https://github.com/MadiXChaplain/480/blob/master/Final/search_twitter.xml)
+[Twitter Collection Process](https://github.com/MadiXChaplain/480/blob/master/Final/search_twitter.xml)
 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/bargraphcollection1.png">
 
