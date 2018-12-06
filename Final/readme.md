@@ -17,7 +17,7 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 Our second collection returned 629 records utilizing the key word #Hondurancaravan.
 Some popular hashtags reflecting Negative sentiment towards the migrant caravan were nationalistic in nature and hostile to the Hondurans occupying the US/Mexico border: #taxpayers #buildthewall #illegalimmigration 
 Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #Refugeeswelcome #HelptheHondurans
-<img src="https://github.com/MadiXChaplain/480/blob/master/Final/worldcloud2.png">
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/worldcloud2.png"> 
 
 
 [process](https://github.com/MadiXChaplain/480/blob/master/Final/Apply%20Model%20Process.xml)
