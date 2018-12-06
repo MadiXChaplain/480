@@ -57,9 +57,12 @@ We chose the Naive Bayes Classification Model because we were able to take the c
 
 
 <h2> Conclusions and Limitations </h2>
-We made two collections, based off of the relatively nuetral query words "MigrantCaravan" and "HonduranCaravan". There was disparity among the colelcted tweets with the overwelming majority of the collected tweets being classified as either negative or nuetral. It was likely that there was an overfitting problem in our training data, as the returned kappa was 1.00 and accuracy was 100%. However, by scanning the predicted label tweets manually, we saw that there was validity in our model. In our post-analysis, we supplemented the models returned predicted labels with an additional sentiment analysis tool. We utilized Python NLTK Text Classification to verify our models accuracy. In the visualizations below, it is evident that our model outperformed the Python NLTK Text Classification tool on both positive and negative sentiments.     
+We made two collections, based off of the relatively nuetral query words "MigrantCaravan" and "HonduranCaravan". There was disparity among the colelcted tweets with the overwelming majority of the collected tweets being classified as either negative or nuetral. It was likely that there was an overfitting problem in our training data, as the returned kappa was 1.00 and accuracy was 100%. However, by scanning the predicted label tweets manually, we saw that there was validity in our model. In our post-analysis, we supplemented the models returned predicted labels with an additional sentiment analysis tool. We utilized Python NLTK Text Classification to verify our models accuracy. In the visualizations below, it is evident that our model outperformed the Python NLTK Text Classification tool on both positive and negative sentiments. 
+
+<H3> The Naive Bayes Model outperformed the Python NLTK Tool for Classifying Negative Sentiment:</h3>
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/Python%20Analysis%20Negative.PNG">
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/negativetweet.PNG">
 
+<H3> The Naive Bayes Model outperformed the Python NLTK Tool for Classifying Positive Sentiment:</h3>
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/Python%20Analysis%20Positive.PNG">
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/positive%20tweet.PNG">
