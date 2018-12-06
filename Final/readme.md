@@ -9,10 +9,8 @@ By working with a high volume of data we expected inherent data quality issues c
 
 <H2> Collection 1: #migrant caravan </H2>
 Our first collection returned 900 records utilizing the key word #migrantcaravan.
-Some popular hashtags reflecting Negative sentiment towards the migrant caravan were nationalistic in nature and hostile to the Hondurans occupying the US/Mexico border:
-#migrantinvasion
-#buildthewallnow
-#caravaninvasion
+Some popular hashtags reflecting Negative sentiment towards the migrant caravan were nationalistic in nature and hostile to the Hondurans occupying the US/Mexico border: # #migrantinvasion # #buildthewallnow # #caravaninvasion
+Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #children
 
 
 # Machine Learning in Python  
