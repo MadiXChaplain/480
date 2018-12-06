@@ -6,7 +6,7 @@
 Introduce basic machine learning models in Python with Jupyter Notebook.
 
 ## Video Tutorial
-https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
+https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0 
 
 ## Textbooks
 1. Data Science from Scratch: http://shop.oreilly.com/product/0636920033400.do
