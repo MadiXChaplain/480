@@ -48,7 +48,7 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 <H2> Trained Naive Bayes Model Visualizations: Collection 2 </H2>
 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/total_count_Bar_collection2.jpg">
-
+<i>Figure 2: Proportion Postive, Neutral, and Negative </i>
 
 <h2> Justification of Naive Bayes Classification Model and Parameters </h2>
 We chose the Naive Bayes Classification Model because we were able to take the collected tweets and format examples of inputs and desired outputs. Our model was able to operate through non-numeric labels to appropriately identify text sentiment as positive, negative, or neutral. After reviewing the data overall our testing data was able to produce the desired output (determination of sentiment) based on the training data labels we provided. Through supervised machine learning, we were able to preemptively label a portion of the initial tweets and manually assign them sentiment teaching the model how to think qualitatively. After processing this data through RapidMiner it was optimized through multiple classification iteration cycles. One we had finished these cycles we also used K-Means clustering to classify tweets in RapidMiner and highlight keywords that were popular in our cluster. Utilizing K-means clustering was a useful supplemental to the Naive Bayes Classification Model. By organizing our returned tweets into a word cloud we were able to visualize teh sentiment of tweets by their assigned position and size within the cluster. The parameters structuring our training and testing data was splitting the data into list partitions. The ratio of training data that we labelled was 0.1 and the ratio of testing data we left unlabelled was 0.9.
@@ -59,8 +59,12 @@ We made two collections, based off of the relatively nuetral query words "Migran
 
 <H3> The Naive Bayes Model outperformed the Python NLTK Tool for Classifying Negative Sentiment:</h3>
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/Python%20Analysis%20Negative.PNG">
+<i>Figure 3: Python NLTK Output </i>
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/negativetweet.PNG">
+<i>Figure 4: RapidMiner Predicted Label Output </i>
 
 <H3> The Naive Bayes Model outperformed the Python NLTK Tool for Classifying Positive Sentiment:</h3>
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/Python%20Analysis%20Positive.PNG">
+<i>Figure 5: Python NLTK Output </i>
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/positive%20tweet.PNG">
+<i>Figure 6: RapidMiner Predicted Label Output </i>
