@@ -46,6 +46,8 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/BARGRAPHFINAL.PNG">
 <i>Figure 1: Proportion Postive, Neutral, and Negative </i>
+
+<i> Figure 2: Bar graph representing Positive, Neutral, and Negative sentiment </i>
 <H2> Trained Naive Bayes Model Visualizations: Collection 2 </H2>
 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/total_count_Bar_collection2.jpg">
