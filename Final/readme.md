@@ -10,13 +10,13 @@ By working with a high volume of data we expected inherent data quality issues c
 <H2> Collection 1: #migrantcaravan </H2>
 Our first collection returned 900 records utilizing the key word #migrantcaravan.
 Some popular hashtags reflecting Negative sentiment towards the migrant caravan were nationalistic in nature and hostile to the Hondurans occupying the US/Mexico border: #migrantinvasion #buildthewallnow #caravaninvasion
-Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #childrenuprooted #asylum. This wordcloud clusters some of the most popular words returned from the query "migrant caravan".  While we found that many of these tweets held negative sentiment, our model categorized the vast majority as neutral. 
+Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #childrenuprooted #asylum. This wordcloud clusters some of the most popular words returned from the query "migrant caravan". While we found that many of these tweets held negative sentiment, our model categorized the vast majority as neutral. When looking at the wordcloud, some of the most popular words were "walls", "border", and "message". Without the context of a tweet, it would make sense that these words are in fact neutral becuase without context, they are just nuetral descriptors. 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/worldcloud1.png">
 
 <H2> Collection 2: #Hondurancaravan </H2>
 Our second collection returned 629 records utilizing the key word #Hondurancaravan.
 Some popular hashtags reflecting Negative sentiment towards the migrant caravan were nationalistic in nature and hostile to the Hondurans occupying the US/Mexico border: #taxpayers #buildthewall #illegalimmigration 
-Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #Refugeeswelcome #HelptheHondurans
+Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #Refugeeswelcome #HelptheHondurans. The following word cloud clustered the most popular words from this collection. Words such as "throwing", "rocks", and "illegal" indicate a high level of negative sentiment, which was reflected in the models classification of the majority of the tweets being negative. 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/worldcloud2.png"> 
 
 <H2> Trained Naive Bayes Model Processes </H2>
@@ -42,15 +42,12 @@ Some popular hashtags reflecting Positive sentiment towards the migrant caravan 
 
 <H2> Trained Naive Bayes Model Visualizations: Collection 1 </H2>
 
-<img src="https://github.com/MadiXChaplain/480/blob/master/Final/PIECHART.PNG">
-
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/BARGRAPHFINAL.PNG">
 
 <H2> Trained Naive Bayes Model Visualizations: Collection 2 </H2>
 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/total_count_Bar_collection2.jpg">
 
-<img src="https://github.com/MadiXChaplain/480/blob/master/Final/total_count_collection_2_pie.png">
 
 <h2> Justification of Naive Bayes Classification Model and Parameters </h2>
 We chose the Naive Bayes Classification Model because we were able to take the collected tweets and format examples of inputs and desired outputs. Our model was able to operate through non-numeric labels to appropriately identify text sentiment as positive, negative, or neutral. After reviewing the data overall our testing data was able to produce the desired output (determination of sentiment) based on the training data labels we provided. Through supervised machine learning, we were able to preemptively label a portion of the initial tweets and manually assign them sentiment teaching the model how to think qualitatively. After processing this data through RapidMiner it was optimized through multiple classification iteration cycles. One we had finished these cycles we also used K-Means clustering to classify tweets in RapidMiner and highlight keywords that were popular in our cluster. Utilizing K-means clustering was a useful supplemental to the Naive Bayes Classification Model. By organizing our returned tweets into a word cloud we were able to visualize teh sentiment of tweets by their assigned position and size within the cluster. The parameters structuring our training and testing data was splitting the data into list partitions. The ratio of training data that we labelled was 0.1 and the ratio of testing data we left unlabelled was 0.9.
