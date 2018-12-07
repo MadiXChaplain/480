@@ -10,7 +10,7 @@ By working with a high volume of data we expected inherent data quality issues c
 <H2> Collection 1: #migrantcaravan </H2>
 Our first collection returned 900 records utilizing the key word #migrantcaravan.
 Some popular hashtags reflecting Negative sentiment towards the migrant caravan were nationalistic in nature and hostile to the Hondurans occupying the US/Mexico border: #migrantinvasion #buildthewallnow #caravaninvasion
-Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #childrenuprooted #asylum
+Some popular hashtags reflecting Positive sentiment towards the migrant caravan that were welcoming and hospitable to the Hondurans seeking asylum in the United States: #childrenuprooted #asylum. While we found that many of these tweets held negative sentiment, our model categorized the vast majority as neutral. 
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/worldcloud1.png">
 
 <H2> Collection 2: #Hondurancaravan </H2>
@@ -57,7 +57,7 @@ We chose the Naive Bayes Classification Model because we were able to take the c
 
 
 <h2> Conclusions and Limitations </h2>
-We made two collections, based off of the relatively nuetral query words "MigrantCaravan" and "HonduranCaravan". There was disparity among the colelcted tweets with the overwelming majority of the collected tweets being classified as either negative or nuetral. It was likely that there was an overfitting problem in our training data, as the returned kappa was 1.00 and accuracy was 100%. However, by scanning the predicted label tweets manually, we saw that there was validity in our model. In our post-analysis, we supplemented the models returned predicted labels with an additional sentiment analysis tool. We utilized Python NLTK Text Classification to verify our models accuracy. In the visualizations below, it is evident that our model outperformed the Python NLTK Text Classification tool on both positive and negative sentiments. 
+We made two collections, based off of the relatively nuetral query words "MigrantCaravan" and "HonduranCaravan". There was disparity among the collected tweets with the overwelming majority of the collected tweets being classified as either negative or nuetral. It was likely that there was an overfitting problem in our training data, as the returned kappa was 1.00 and accuracy was 100%. However, by scanning the predicted label tweets manually, we saw that there was validity in our model. In our post-analysis, we supplemented the models returned predicted labels with an additional sentiment analysis tool. We utilized Python NLTK Text Classification to verify our models accuracy. In the visualizations below, it is evident that our model outperformed the Python NLTK Text Classification tool on both positive and negative sentiments. In applying the K-Means Clustering Model to classify tweets, we were unable to group them into more than one category. After troubleshooting many times, we were unable to remediate the issue, and were left with one wordcloud. Despite this limitation, we were still able generate a wordcloud that provided an overview of the most popular words that were used in the collected tweets.  
 
 <H3> The Naive Bayes Model outperformed the Python NLTK Tool for Classifying Negative Sentiment:</h3>
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/Python%20Analysis%20Negative.PNG">
