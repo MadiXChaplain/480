@@ -1,4 +1,5 @@
 <h1>Sentiment Analysis Using Naive Bayes Classification Model</h1>
+<i>Madison Chaplain & Kimmy Murphy </i>
 <H2>Introduction</H2>
 <H3>Research Question:</H3>
 By collecting Twitter Data regarding the Honduran migrant caravan, we can determine the sentiment of affected citizens as positive, negative, or neutral through the Naive Bayes Classification Model.
