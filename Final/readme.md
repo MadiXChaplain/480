@@ -65,7 +65,7 @@ We chose the Naive Bayes Classification Model because we were able to take the c
 We made two collections, based off of the relatively nuetral query words "MigrantCaravan" and "HonduranCaravan". There was disparity among the collected tweets with the overwelming majority of the collected tweets being classified as either negative or nuetral. It was likely that there was an overfitting problem in our training data, as the returned kappa was 1.00 and accuracy was 100%. However, by scanning the predicted label tweets manually, we saw that there was validity in our model. In our post-analysis, we supplemented the models returned predicted labels with an additional sentiment analysis tool. We utilized Python NLTK Text Classification to verify our models accuracy. In the visualizations below, it is evident that our model outperformed the Python NLTK Text Classification tool on both positive and negative sentiments. In applying the K-Means Clustering Model to classify tweets, we were unable to group them into more than one category. After troubleshooting many times, we were unable to remediate the issue, and were left with one wordcloud. Despite this limitation, we were still able generate a wordcloud that provided an overview of the most popular words that were used in the collected tweets.  
 
 <H3> The Naive Bayes Model outperformed the Python NLTK Tool for Classifying Negative Sentiment:</h3>
-<img src="https://github.com/MadiXChaplain/480/blob/master/Final/Python%20Analysis%20Negative.PNG">
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/TLKN2.PNG">
 <i>Figure 5: Python NLTK Output </i>
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/negativetweet.PNG">
 <i>Figure 6: RapidMiner Predicted Label Output </i>
