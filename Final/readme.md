@@ -67,7 +67,7 @@ We made two collections, based off of the relatively nuetral query words "Migran
 <H3> The Naive Bayes Model outperformed the Python NLTK Tool for Classifying Negative Sentiment:</h3>
 <img src="https://github.com/MadiXChaplain/480/blob/master/Final/TLKN2.PNG">
 <i>Figure 5: Python NLTK Output </i>
-<img src="https://github.com/MadiXChaplain/480/blob/master/Final/negativetweet.PNG">
+<img src="https://github.com/MadiXChaplain/480/blob/master/Final/NEGATIVE.PNG">
 <i>Figure 6: RapidMiner Predicted Label Output </i>
 
 <H3> The Naive Bayes Model outperformed the Python NLTK Tool for Classifying Positive Sentiment:</h3>
